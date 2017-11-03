@@ -5,7 +5,7 @@
     <link>http://blog.joyble.com/post/</link>
     <description>Recent content in Posts on DUDOR&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ZH</language>
+    <language>zh</language>
     <lastBuildDate>Sun, 05 Feb 2017 20:27:36 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.joyble.com/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,19 +13,19 @@
     
     <item>
       <title>祝小杜杜生日快乐，永远幸福！</title>
-      <link>http://blog.joyble.com/post/happy-birthday-to-my-son/</link>
+      <link>http://blog.joyble.com/2017/02/05/%E7%A5%9D%E5%B0%8F%E6%9D%9C%E6%9D%9C%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%B0%B8%E8%BF%9C%E5%B9%B8%E7%A6%8F/</link>
       <pubDate>Sun, 05 Feb 2017 20:27:36 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/happy-birthday-to-my-son/</guid>
+      <guid>http://blog.joyble.com/2017/02/05/%E7%A5%9D%E5%B0%8F%E6%9D%9C%E6%9D%9C%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%B0%B8%E8%BF%9C%E5%B9%B8%E7%A6%8F/</guid>
       <description> 今天是你的3岁生日，祝你生日快乐，越长越帅 </description>
     </item>
     
     <item>
       <title>centos中安装python3和scrapy爬虫</title>
-      <link>http://blog.joyble.com/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
+      <link>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
+      <guid>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
       <description>折腾了一天，总算是安装好了。必须得记录下，不然下次说不准还得再折腾一天。。。
 虚拟机环境是centos6.5，系统自带python2.6。
 我先要安装个python3.5，然后再安装scrapy。
@@ -35,10 +35,10 @@ tar zxvf Python-3.5.2.tgz cd Python-3.5.2 ./configure --prefix=/usr/local/python
     
     <item>
       <title>centos一键安装开发工具包</title>
-      <link>http://blog.joyble.com/post/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</link>
+      <link>http://blog.joyble.com/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</link>
       <pubDate>Fri, 22 Jul 2016 10:56:22 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</guid>
+      <guid>http://blog.joyble.com/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</guid>
       <description>今天在centos上升级python3.5，提示缺少编译工具gcc等
 如果一个个的手动下载安装太慢了，可以用系统自带的命令一键安装
 yum groupinstall &#39;Development Tools&#39;  这个命令会安装几十个工具，如git,gcc,perl,zip，svn，rsync等等，太方便了。</description>
@@ -46,10 +46,10 @@ yum groupinstall &#39;Development Tools&#39;  这个命令会安装几十个工�
     
     <item>
       <title>win7和win10上安装scrapy爬虫</title>
-      <link>http://blog.joyble.com/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</link>
+      <link>http://blog.joyble.com/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</link>
       <pubDate>Tue, 19 Jul 2016 14:40:08 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</guid>
+      <guid>http://blog.joyble.com/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</guid>
       <description>我在自己的win7和win10电脑上安装成功了，具体环境是：
 win7-64位/win10-64位 + python2.7-32
 但是python3.5中没有安装成功(好像不支持)。
@@ -66,10 +66,10 @@ pip install lxml-3.4.4-cp27-none-win32.whl   最后安装scrapy  pip install scr
     
     <item>
       <title>ss的iptables设置规则</title>
-      <link>http://blog.joyble.com/post/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/</link>
+      <link>http://blog.joyble.com/2016/07/05/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/</link>
       <pubDate>Tue, 05 Jul 2016 14:34:41 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/</guid>
+      <guid>http://blog.joyble.com/2016/07/05/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/</guid>
       <description>搭建好自己的科学上网工具后，如果想要和朋友分享使用，其中的一些安全设置还是很有必要的，不然很可能会被猪一样的队友坑一把哦。
 一般情况下，ss服务器只是用来科学上网，所以开几个常用的端口就可以了。这里我们只开放ssh，http，https，dns，ping相关的端口。 这里防火墙的原则是进来的流量要审核，而从内部出去的流量不用审核，简单的讲就是外面的流量必须从上面我们开放的几个端口才能连接进来，而内部出去的流量没有限制。
 假设服务器是新开的，以前没有设置过iptables规则。
@@ -84,10 +84,10 @@ iptables -A INPUT -p icmp --icmp-type echo-request -j ACCEPT  当然还有ss的�
     
     <item>
       <title>python学习之字典</title>
-      <link>http://blog.joyble.com/post/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E5%85%B8/</link>
+      <link>http://blog.joyble.com/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E5%85%B8/</link>
       <pubDate>Mon, 27 Jun 2016 11:52:39 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E5%85%B8/</guid>
+      <guid>http://blog.joyble.com/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E5%85%B8/</guid>
       <description>  学习内容来自廖雪峰的官方网站
  dict (字典) dict (字典) 是一个存储了许多key=value键值对的集合，就像新华字典一样，查找数据很快。 比如查找班级中某个同学的成绩，用list来实现的话，可能是这样：
 students = [&#39;lilei&#39;,&#39;hanmeimei&#39;,&#39;lucy&#39;] scores = [55,56,57] name = input(&#39;请输入学生的名字&amp;gt;&#39;) for i in range(len(students)): if(students[i] == name): print(scores[i])  而用dict来实现会更简单：
@@ -98,10 +98,10 @@ s = set([1, 2, 3])  </description>
     
     <item>
       <title>python学习之列表,元组</title>
-      <link>http://blog.joyble.com/post/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%97%E8%A1%A8-%E5%85%83%E7%BB%84/</link>
+      <link>http://blog.joyble.com/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%97%E8%A1%A8%E5%85%83%E7%BB%84/</link>
       <pubDate>Mon, 27 Jun 2016 10:14:35 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%97%E8%A1%A8-%E5%85%83%E7%BB%84/</guid>
+      <guid>http://blog.joyble.com/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%97%E8%A1%A8%E5%85%83%E7%BB%84/</guid>
       <description>学习内容来自廖雪峰的官方网站
  python中内置了四种集合，分别是list，tupple(元组)，set和dict。 其中前三种比较类似，只存储了key，而dict字典存储的是key-value键值对。 如果学过其它编程语言，就会很容易理解它们。
 list (列表) list是一个有序的列表，并且可以随时添加修改内部的元素。
@@ -113,10 +113,10 @@ database = (&#39;mysql&#39;,&#39;mssql&#39;,&#39;nosql&#39;) print(database[1]) 
     
     <item>
       <title>unity3d网络组件UNET学习笔记</title>
-      <link>http://blog.joyble.com/post/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <link>http://blog.joyble.com/2016/01/22/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Fri, 22 Jan 2016 09:08:51 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://blog.joyble.com/2016/01/22/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description>内容翻译自http://docs.unity3d.com/Manual/UNetOverview.html
 Using the NetworkManager  The NetworkManager is a component for managing the network state of a multiplayer game. It is actually implemented entirely using the HLAPI, so everything it does is available to developers in other forms. However the NetworkManager wraps up a lot of useful functionality into a single place and makes creating, running and debugging multiplayer games as simple as possible.
  NetworkManager组件是为了管理联网游戏的网络状态。实际上它完全是用HLAPI来实现的，对开发者来说它只是用另一种形式来实现了联网的功能。不管怎样它尽量简洁的包含了很多有用的功能。
@@ -125,20 +125,20 @@ Using the NetworkManager  The NetworkManager is a component for managing the net
     
     <item>
       <title>unity3d中多渠道批量打包方法总结</title>
-      <link>http://blog.joyble.com/post/unity3d%E4%B8%AD%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%B9%E9%87%8F%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</link>
+      <link>http://blog.joyble.com/2015/10/09/unity3d%E4%B8%AD%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%B9%E9%87%8F%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</link>
       <pubDate>Fri, 09 Oct 2015 16:39:34 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/unity3d%E4%B8%AD%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%B9%E9%87%8F%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</guid>
+      <guid>http://blog.joyble.com/2015/10/09/unity3d%E4%B8%AD%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%B9%E9%87%8F%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</guid>
       <description>当游戏要上线时，不可避免的要和国内各个渠道打交道，而国内的渠道远不止十个八个这个数量，比如我公司的游戏有的都要打个100多个包，变态极了， 所以公司也有专门的打包部门，主要就是分析各个渠道的SDK，然后封装，做成接口，给各团队的游戏使用。
 当然对于我们这样的小团队，平时也需要自己打包调试SDK，为了方便，根据网上查找的相关资料，也总结了一套自己的打包方法。</description>
     </item>
     
     <item>
       <title>lua学习笔记</title>
-      <link>http://blog.joyble.com/post/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <link>http://blog.joyble.com/2015/07/12/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Sun, 12 Jul 2015 18:14:47 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://blog.joyble.com/2015/07/12/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description>##语法约定 lua中的变量名定义规则和大多数编程语言一样，是任何非数字开头的由字母，数字和下划线组成的字符串。 lua是大小写敏感的。 ##字符串 字符串是由单引号或双引号或N级中括号定义的，比如 a = &amp;lsquo;dudor&amp;rsquo; a = &amp;ldquo;dudor&amp;rdquo; a = [[dudor]] 上面三个值是相等的。 其中由N级中括号定义的方式比较特别，在别的语言中很少见到。N级中括号是在两个中括号中插入N个等号定义为第N级中括号。 ##注释 注释是用两个横线定义的，单行注释是 &amp;ndash; ，多行注释为 &amp;ndash;[
 ##类型 lua中有8种类型： nil, boolean, number, string, function, userdata, thread, and table.
  nil类似于c中的NULL,通常用来表示一个无意义的值。 boolean有false和true两个值。 number代表双精度浮点数字。 string是上面所说的字符串。 userdata用来将任意类型的c数据保存在lua变量中。它不能被lua创建和修改。 thread代表了一种线程，当然和C中的线程不由，类似于UNITY3D中的coroutine，它可以在所有的系统中使用，不管系统是否支持多线程。 table可以认为是一种字典类型  ##变量 在lua中，使用变量是不需要声明的，并且它们默认是全局变量，除非在前面注明了local关键字
@@ -147,10 +147,10 @@ Using the NetworkManager  The NetworkManager is a component for managing the net
     
     <item>
       <title>unity3d中使用git做版本控制的心得体会</title>
-      <link>http://blog.joyble.com/post/unity3d%E4%B8%AD%E4%BD%BF%E7%94%A8git%E5%81%9A%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</link>
+      <link>http://blog.joyble.com/2015/07/07/unity3d%E4%B8%AD%E4%BD%BF%E7%94%A8git%E5%81%9A%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</link>
       <pubDate>Tue, 07 Jul 2015 00:39:42 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/unity3d%E4%B8%AD%E4%BD%BF%E7%94%A8git%E5%81%9A%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</guid>
+      <guid>http://blog.joyble.com/2015/07/07/unity3d%E4%B8%AD%E4%BD%BF%E7%94%A8git%E5%81%9A%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</guid>
       <description>提起git，可以说是个程序员都听说过或使用过，我最早接触它是在GITHUB上，用它来下载源代码，后来随着工作的需要，渐渐的用在了工作中，记得某次接盘了一个C++项目，代码一大堆，可是却没有任何文档，要添加新功能却又害怕影响现在的功能，于是在本地建立了git库，进度完成一点就提交一次，这样也不怕改错代码了，大不了重新把之前的签出来就可以了，很是方便。
 后来接触到了unity3d，在小组同事的帮助下渐渐入了门，当时的项目一直用的unity3d自带的asset server做版本控制，这个东西虽然是官方的，但是一点也不好用，每次和同事合并项目，总是出现丢失东西的问题，当时也没有想太多，后来随着项目文件的增多，体积也越来越臃肿，每次合并出现问题，都要花费很多时间去修复，终于大家都受不了了，在一次程序大更新中，我把版本控制换成git了。
 在unity3d中使用git，需要注意以下几点
@@ -161,10 +161,10 @@ Using the NetworkManager  The NetworkManager is a component for managing the net
     
     <item>
       <title>markdown学习笔记</title>
-      <link>http://blog.joyble.com/post/learn-markdown/</link>
+      <link>http://blog.joyble.com/2015/07/01/markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Wed, 01 Jul 2015 00:47:56 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/learn-markdown/</guid>
+      <guid>http://blog.joyble.com/2015/07/01/markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description>常用语法 标题 每行首添加n(1-6)个#对应输出Hn ，如 * h1 ：# * h2 ：## * h3 ：###
 列表 无序列表可以使用+和-及***号做为标记，有序列表使用1.和2.**等做为标记
  * 我是无序列表 * 我是无序列表 * 我是无序列表  文本样式  **加粗** *斜体* ~~删除线~~ \=\===高亮==\=\= 段落，段落中间空一行 换行，行尾加两个空格 &amp;gt; &amp;gt;引用 `内嵌代码` 水平线 ------- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;  图片 图片的格式为 ![alt text](imgpath &amp;ldquo;title&amp;rdquo;) 如 链接  普通网址 http://dudor.github.io/ http://dudor.github.io/ 带文本说明的链接 文本链接 文本链接  ========================================= 以上是最简单的标签，用来写文章确实很方便！</description>
@@ -172,10 +172,10 @@ Using the NetworkManager  The NetworkManager is a component for managing the net
     
     <item>
       <title>我的新博客开张</title>
-      <link>http://blog.joyble.com/post/my-new-blog/</link>
+      <link>http://blog.joyble.com/2015/06/27/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0/</link>
       <pubDate>Sat, 27 Jun 2015 13:56:33 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/my-new-blog/</guid>
+      <guid>http://blog.joyble.com/2015/06/27/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0/</guid>
       <description>终于还是忍不住，重新开了这个博客，说起来，已经有快2年时间没有写过博客了，以前买发票域名和vps，信心满满的要坚持每日一博，可惜最初的衷心还是被我的懒惰击碎了，业精于勤而荒于嬉，以此为戒，谨记。
 中间这段时间虽然没有写博客，但发生了很多有意义的事，值的记下来，比如结婚了，有小杜杜了等，真是很遗憾的事。
 工作上也发生了很大的变化，由以前的桌面程序开发转到了现在的u3d游戏开发，跨度不小，对我来说还是有很大的挑战，毕竟游戏涉及到的知识面太广了，我也只有路漫漫其修远兮，吾将上下而求所。
@@ -184,10 +184,10 @@ Using the NetworkManager  The NetworkManager is a component for managing the net
     
     <item>
       <title>Hello World</title>
-      <link>http://blog.joyble.com/post/hello-world/</link>
+      <link>http://blog.joyble.com/2015/06/20/hello-world/</link>
       <pubDate>Sat, 20 Jun 2015 00:47:56 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/hello-world/</guid>
+      <guid>http://blog.joyble.com/2015/06/20/hello-world/</guid>
       <description>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
 Quick Start Create a new post $ hexo new &amp;quot;My New Post&amp;quot;  More info: Writing
 Run server $ hexo server  More info: Server

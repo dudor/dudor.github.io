@@ -5,7 +5,7 @@
     <link>http://blog.joyble.com/tags/scrapy/</link>
     <description>Recent content in Scrapy on DUDOR&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ZH</language>
+    <language>zh</language>
     <lastBuildDate>Fri, 22 Jul 2016 16:55:31 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.joyble.com/tags/scrapy/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
     
     <item>
       <title>centos中安装python3和scrapy爬虫</title>
-      <link>http://blog.joyble.com/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
+      <link>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
+      <guid>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
       <description>折腾了一天，总算是安装好了。必须得记录下，不然下次说不准还得再折腾一天。。。
 虚拟机环境是centos6.5，系统自带python2.6。
 我先要安装个python3.5，然后再安装scrapy。
@@ -26,10 +26,10 @@ tar zxvf Python-3.5.2.tgz cd Python-3.5.2 ./configure --prefix=/usr/local/python
     
     <item>
       <title>win7和win10上安装scrapy爬虫</title>
-      <link>http://blog.joyble.com/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</link>
+      <link>http://blog.joyble.com/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</link>
       <pubDate>Tue, 19 Jul 2016 14:40:08 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</guid>
+      <guid>http://blog.joyble.com/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</guid>
       <description>我在自己的win7和win10电脑上安装成功了，具体环境是：
 win7-64位/win10-64位 + python2.7-32
 但是python3.5中没有安装成功(好像不支持)。

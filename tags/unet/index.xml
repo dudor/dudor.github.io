@@ -5,7 +5,7 @@
     <link>http://blog.joyble.com/tags/unet/</link>
     <description>Recent content in Unet on DUDOR&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ZH</language>
+    <language>zh</language>
     <lastBuildDate>Fri, 22 Jan 2016 09:08:51 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.joyble.com/tags/unet/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
     
     <item>
       <title>unity3d网络组件UNET学习笔记</title>
-      <link>http://blog.joyble.com/post/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <link>http://blog.joyble.com/2016/01/22/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Fri, 22 Jan 2016 09:08:51 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://blog.joyble.com/2016/01/22/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description>内容翻译自http://docs.unity3d.com/Manual/UNetOverview.html
 Using the NetworkManager  The NetworkManager is a component for managing the network state of a multiplayer game. It is actually implemented entirely using the HLAPI, so everything it does is available to developers in other forms. However the NetworkManager wraps up a lot of useful functionality into a single place and makes creating, running and debugging multiplayer games as simple as possible.
  NetworkManager组件是为了管理联网游戏的网络状态。实际上它完全是用HLAPI来实现的，对开发者来说它只是用另一种形式来实现了联网的功能。不管怎样它尽量简洁的包含了很多有用的功能。

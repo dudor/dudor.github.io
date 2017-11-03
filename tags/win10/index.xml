@@ -5,7 +5,7 @@
     <link>http://blog.joyble.com/tags/win10/</link>
     <description>Recent content in Win10 on DUDOR&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ZH</language>
+    <language>zh</language>
     <lastBuildDate>Tue, 19 Jul 2016 14:40:08 +0000</lastBuildDate>
     
 	<atom:link href="http://blog.joyble.com/tags/win10/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
     
     <item>
       <title>win7和win10上安装scrapy爬虫</title>
-      <link>http://blog.joyble.com/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</link>
+      <link>http://blog.joyble.com/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</link>
       <pubDate>Tue, 19 Jul 2016 14:40:08 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</guid>
+      <guid>http://blog.joyble.com/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</guid>
       <description>我在自己的win7和win10电脑上安装成功了，具体环境是：
 win7-64位/win10-64位 + python2.7-32
 但是python3.5中没有安装成功(好像不支持)。
