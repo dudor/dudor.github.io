@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on DUDOR&#39;s BLOG</title>
+    <link>http://blog.joyble.com/tags/markdown/</link>
+    <description>Recent content in Markdown on DUDOR&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ZH</language>
+    <lastBuildDate>Wed, 01 Jul 2015 00:47:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.joyble.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>markdown学习笔记</title>
+      <link>http://blog.joyble.com/post/learn-markdown/</link>
+      <pubDate>Wed, 01 Jul 2015 00:47:56 +0000</pubDate>
+      
+      <guid>http://blog.joyble.com/post/learn-markdown/</guid>
+      <description>常用语法 标题 每行首添加n(1-6)个#对应输出Hn ，如 * h1 ：# * h2 ：## * h3 ：###
+列表 无序列表可以使用+和-及***号做为标记，有序列表使用1.和2.**等做为标记
+ * 我是无序列表 * 我是无序列表 * 我是无序列表  文本样式  **加粗** *斜体* ~~删除线~~ \=\===高亮==\=\= 段落，段落中间空一行 换行，行尾加两个空格 &amp;gt; &amp;gt;引用 `内嵌代码` 水平线 ------- &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;  图片 图片的格式为 ![alt text](imgpath &amp;ldquo;title&amp;rdquo;) 如 链接  普通网址 http://dudor.github.io/ http://dudor.github.io/ 带文本说明的链接 文本链接 文本链接  ========================================= 以上是最简单的标签，用来写文章确实很方便！</description>
+    </item>
+    
+  </channel>
+</rss>

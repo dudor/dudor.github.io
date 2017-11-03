@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ZH" lang="ZH">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.30-DEV" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>DUDOR&#39;s BLOG</title>
+
+  
+  <link rel="stylesheet" href="http://blog.joyble.com/css/print.css" media="print">
+  <link rel="stylesheet" href="http://blog.joyble.com/css/poole.css">
+  <link rel="stylesheet" href="http://blog.joyble.com/css/syntax.css">
+  <link rel="stylesheet" href="http://blog.joyble.com/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  <link href="http://blog.joyble.com/index.xml" rel="alternate" type="application/rss+xml" title="DUDOR&#39;s BLOG" />
+</head>
+
+  <body class=" ">
+  <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="http://blog.joyble.com/"><h1>DUDOR&#39;s BLOG</h1></a>
+      <p class="lead">
+       欢迎来到这个杂乱无章的地方！ 
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li><a href="http://blog.joyble.com/">Home</a> </li>
+      
+    </ul>
+
+    <p>&copy; 2017. All rights reserved. </p>
+  </div>
+</div>
+
+    <div class="content container">
+    <div class="posts">
+<div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/happy-birthday-to-my-son/">祝小杜杜生日快乐，永远幸福！</a>
+  </h1>
+  <span class="post-date">Sun, Feb 5, 2017</span>
+   今天是你的3岁生日，祝你生日快乐，越长越帅 
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/">centos中安装python3和scrapy爬虫</a>
+  </h1>
+  <span class="post-date">Fri, Jul 22, 2016</span>
+  折腾了一天，总算是安装好了。必须得记录下，不然下次说不准还得再折腾一天。。。
+虚拟机环境是centos6.5，系统自带python2.6。
+我先要安装个python3.5，然后再安装scrapy。
+先更新下系统 yum update -y  安装依赖包 yum groupinstall 'Development Tools' yum install gcc gcc-devel -y yum install libxml2 libxml2-devel -y yum install libxslt libxslt-devel -y yum install openssl openssl-devel -y yum install libffi libffi-devel -y yum install sqlite sqlite-devel -y  安装python3.5 下载地址：https://www.python.org/ftp/python/3.5.2/Python-3.5.2.tgz
+tar zxvf Python-3.5.2.tgz cd Python-3.5.2 ./configure --prefix=/usr/local/python3.5.2 make &amp;&amp; make install  重新设置python命令链接 cd /usr/bin mv python python2_old ln -s /usr/local/python3.5.2/bin/python3 python ln -s /usr/local/python3.
+  
+  <div class="read-more-link">
+    <a href="/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/">Read More…</a>
+  </div>
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/">centos一键安装开发工具包</a>
+  </h1>
+  <span class="post-date">Fri, Jul 22, 2016</span>
+  今天在centos上升级python3.5，提示缺少编译工具gcc等
+如果一个个的手动下载安装太慢了，可以用系统自带的命令一键安装
+yum groupinstall 'Development Tools'  这个命令会安装几十个工具，如git,gcc,perl,zip，svn，rsync等等，太方便了。
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/">win7和win10上安装scrapy爬虫</a>
+  </h1>
+  <span class="post-date">Tue, Jul 19, 2016</span>
+  我在自己的win7和win10电脑上安装成功了，具体环境是：
+win7-64位/win10-64位 + python2.7-32
+但是python3.5中没有安装成功(好像不支持)。
+以下用到的所用文件我都在百度网盘中做了备份，有需要的可以直接用我分享的文件。
+百度盘：http://pan.baidu.com/s/1qYIPIYK
+安装32位的python2.7  下载地址 https://www.python.org/downloads/ 更新环境变量,可以直接把下面的代码添加到环境变量的path中   C:\Python27\;C:\Python27\Scripts\;  或者直接运行python自带的脚本自动更新
+ c:\python27\python.exe c:\python27\tools\scripts\win_add2path.py  安装 pywin32  下载地址：https://sourceforge.net/projects/pywin32/files/pywin32/Build%20220/
+pywin32的版本要和python的一致，所以要选 pywin32-220.win32-py2.7.exe
+  安装 Microsoft Visual C++ Compiler for Python 2.7  下载地址 : https://www.microsoft.com/en-us/download/details.aspx?id=44266  安装pip  下载地址 : https://pip.pypa.io/en/latest/installing/
+下载页而上的get-pip.py脚本，然后在本机上运行
+python get-pip.py   安装lxml  下载地址 : http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml 这个也需要和python版本对应，所以在页面上搜索lxml-3.4.4-cp27-none-win32.whl，下载并用下面的命令安装。
+pip install lxml-3.4.4-cp27-none-win32.whl   最后安装scrapy  pip install scrapy   参考： http://doc.
+  
+  <div class="read-more-link">
+    <a href="/post/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/">Read More…</a>
+  </div>
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/">ss的iptables设置规则</a>
+  </h1>
+  <span class="post-date">Tue, Jul 5, 2016</span>
+  搭建好自己的科学上网工具后，如果想要和朋友分享使用，其中的一些安全设置还是很有必要的，不然很可能会被猪一样的队友坑一把哦。
+一般情况下，ss服务器只是用来科学上网，所以开几个常用的端口就可以了。这里我们只开放ssh，http，https，dns，ping相关的端口。 这里防火墙的原则是进来的流量要审核，而从内部出去的流量不用审核，简单的讲就是外面的流量必须从上面我们开放的几个端口才能连接进来，而内部出去的流量没有限制。
+假设服务器是新开的，以前没有设置过iptables规则。
+ 首先清空下规则：
+iptables -F iptables -X  启用本地环回网络
+iptables -A INPUT -i lo -j ACCEPT  开放ssh端口
+iptables -A INPUT -p tcp --dport 22 -j ACCEPT  开放http和https端口
+iptables -A INPUT -p tcp --dport 80 -j ACCEPT iptables -A INPUT -p tcp --dport 443 -j ACCEPT  开放dns端口
+iptables -A INPUT -p udp --dport 53 -j ACCEPT  开放ping端口
+iptables -A INPUT -p icmp --icmp-type echo-request -j ACCEPT  当然还有ss的端口，不然没法翻墙啊，这里我假设10000~20000之间的端口都可以分配给用户来连接
+  
+  <div class="read-more-link">
+    <a href="/post/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/">Read More…</a>
+  </div>
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E5%85%B8/">python学习之字典</a>
+  </h1>
+  <span class="post-date">Mon, Jun 27, 2016</span>
+    学习内容来自廖雪峰的官方网站
+ dict (字典) dict (字典) 是一个存储了许多key=value键值对的集合，就像新华字典一样，查找数据很快。 比如查找班级中某个同学的成绩，用list来实现的话，可能是这样：
+students = ['lilei','hanmeimei','lucy'] scores = [55,56,57] name = input('请输入学生的名字&gt;') for i in range(len(students)): if(students[i] == name): print(scores[i])  而用dict来实现会更简单：
+students = {'lilei':55,'hanmeimei':56,'lucy':57} name = input('请输入学生的名字 &gt;') print(students[name])  由于字典是根据key来查找value的，所以它的key必须是不能改变的，也就是常量。
+set (集合) set 和 dict类似，只是set只存储key，而不存储value，它是一个无序的并且内部无重复元素的集合。 要创建一个set，需要提供一个list作为输入集合：
+s = set([1, 2, 3])  
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%97%E8%A1%A8-%E5%85%83%E7%BB%84/">python学习之列表,元组</a>
+  </h1>
+  <span class="post-date">Mon, Jun 27, 2016</span>
+  学习内容来自廖雪峰的官方网站
+ python中内置了四种集合，分别是list，tupple(元组)，set和dict。 其中前三种比较类似，只存储了key，而dict字典存储的是key-value键值对。 如果学过其它编程语言，就会很容易理解它们。
+list (列表) list是一个有序的列表，并且可以随时添加修改内部的元素。
+classmates = ['lilei','xiaoming'] print(classmates) classmates.append('hanmeimei') print(classmates) print(classmates.pop()) print(classmates) classmates.insert(0,'hanmeimei') print(classmates) classmates[2] = 'lucy' print(classmates)  输出结果为
+['lilei', 'xiaoming'] ['lilei', 'xiaoming', 'hanmeimei'] hanmeimei ['lilei', 'xiaoming'] ['hanmeimei', 'lilei', 'xiaoming'] ['hanmeimei', 'lilei', 'lucy']  需要注意的是如果用索引访问会出现数组越界的错误 比如 classmates = [&lsquo;lilei&rsquo;,&lsquo;xiaoming&rsquo;]，然后访问classmates[2]=&lsquo;hanmeimei&rsquo;，会出现索引越界，因为索引为2的项不存在。
+tupple (元组) tupple也是一种有序的列表，它和list非常相似，只是它在初始化之后，内部的元素就不能被修改了。
+database = ('mysql','mssql','nosql') print(database[1]) #修改会报错 database[0] = 'oracle'  你只能访问database，而不能修改它。
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">unity3d网络组件UNET学习笔记</a>
+  </h1>
+  <span class="post-date">Fri, Jan 22, 2016</span>
+  内容翻译自http://docs.unity3d.com/Manual/UNetOverview.html
+Using the NetworkManager  The NetworkManager is a component for managing the network state of a multiplayer game. It is actually implemented entirely using the HLAPI, so everything it does is available to developers in other forms. However the NetworkManager wraps up a lot of useful functionality into a single place and makes creating, running and debugging multiplayer games as simple as possible.
+ NetworkManager组件是为了管理联网游戏的网络状态。实际上它完全是用HLAPI来实现的，对开发者来说它只是用另一种形式来实现了联网的功能。不管怎样它尽量简洁的包含了很多有用的功能。
+ The NetworkManager can be used entirely without scripting.
+  
+  <div class="read-more-link">
+    <a href="/post/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">Read More…</a>
+  </div>
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/unity3d%E4%B8%AD%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%B9%E9%87%8F%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/">unity3d中多渠道批量打包方法总结</a>
+  </h1>
+  <span class="post-date">Fri, Oct 9, 2015</span>
+  当游戏要上线时，不可避免的要和国内各个渠道打交道，而国内的渠道远不止十个八个这个数量，比如我公司的游戏有的都要打个100多个包，变态极了， 所以公司也有专门的打包部门，主要就是分析各个渠道的SDK，然后封装，做成接口，给各团队的游戏使用。
+当然对于我们这样的小团队，平时也需要自己打包调试SDK，为了方便，根据网上查找的相关资料，也总结了一套自己的打包方法。
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">lua学习笔记</a>
+  </h1>
+  <span class="post-date">Sun, Jul 12, 2015</span>
+  ##语法约定 lua中的变量名定义规则和大多数编程语言一样，是任何非数字开头的由字母，数字和下划线组成的字符串。 lua是大小写敏感的。 ##字符串 字符串是由单引号或双引号或N级中括号定义的，比如 a = &lsquo;dudor&rsquo; a = &ldquo;dudor&rdquo; a = [[dudor]] 上面三个值是相等的。 其中由N级中括号定义的方式比较特别，在别的语言中很少见到。N级中括号是在两个中括号中插入N个等号定义为第N级中括号。 ##注释 注释是用两个横线定义的，单行注释是 &ndash; ，多行注释为 &ndash;[
+##类型 lua中有8种类型： nil, boolean, number, string, function, userdata, thread, and table.
+ nil类似于c中的NULL,通常用来表示一个无意义的值。 boolean有false和true两个值。 number代表双精度浮点数字。 string是上面所说的字符串。 userdata用来将任意类型的c数据保存在lua变量中。它不能被lua创建和修改。 thread代表了一种线程，当然和C中的线程不由，类似于UNITY3D中的coroutine，它可以在所有的系统中使用，不管系统是否支持多线程。 table可以认为是一种字典类型  ##变量 在lua中，使用变量是不需要声明的，并且它们默认是全局变量，除非在前面注明了local关键字
+##流程控制 1. if &hellip; then &hellip; elseif &hellip; then &hellip; else &hellip; end 2. while &hellip; do &hellip; end 3. repeat &hellip; until &hellip; 4. for 变量=初值,终值,步进 do &hellip; end 5.
+  
+  <div class="read-more-link">
+    <a href="/post/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">Read More…</a>
+  </div>
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/unity3d%E4%B8%AD%E4%BD%BF%E7%94%A8git%E5%81%9A%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/">unity3d中使用git做版本控制的心得体会</a>
+  </h1>
+  <span class="post-date">Tue, Jul 7, 2015</span>
+  提起git，可以说是个程序员都听说过或使用过，我最早接触它是在GITHUB上，用它来下载源代码，后来随着工作的需要，渐渐的用在了工作中，记得某次接盘了一个C++项目，代码一大堆，可是却没有任何文档，要添加新功能却又害怕影响现在的功能，于是在本地建立了git库，进度完成一点就提交一次，这样也不怕改错代码了，大不了重新把之前的签出来就可以了，很是方便。
+后来接触到了unity3d，在小组同事的帮助下渐渐入了门，当时的项目一直用的unity3d自带的asset server做版本控制，这个东西虽然是官方的，但是一点也不好用，每次和同事合并项目，总是出现丢失东西的问题，当时也没有想太多，后来随着项目文件的增多，体积也越来越臃肿，每次合并出现问题，都要花费很多时间去修复，终于大家都受不了了，在一次程序大更新中，我把版本控制换成git了。
+在unity3d中使用git，需要注意以下几点
+ 在editor settings中，把asset serialization中的mode项切换成force text 只需要将项目中的Assets和projectsettings文件夹加入到版本库中即可  ###另附本人在unity3d中常用的gitignore文件
+ [Ll]ibrary/ [Tt]emp/ [Oo]bj/ [Bb]uild/ # Autogenerated VS/MD solution and project files *.csproj *.unityproj *.sln *.suo *.user *.userprefs *.pidb *.booproj # Unity3D Generated File On Crash Reports sysinfo.txt
+ 
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/learn-markdown/">markdown学习笔记</a>
+  </h1>
+  <span class="post-date">Wed, Jul 1, 2015</span>
+  常用语法 标题 每行首添加n(1-6)个#对应输出Hn ，如 * h1 ：# * h2 ：## * h3 ：###
+列表 无序列表可以使用+和-及***号做为标记，有序列表使用1.和2.**等做为标记
+ * 我是无序列表 * 我是无序列表 * 我是无序列表  文本样式  **加粗** *斜体* ~~删除线~~ \=\===高亮==\=\= 段落，段落中间空一行 换行，行尾加两个空格 &gt; &gt;引用 `内嵌代码` 水平线 ------- &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;  图片 图片的格式为 ![alt text](imgpath &ldquo;title&rdquo;) 如 链接  普通网址 http://dudor.github.io/ http://dudor.github.io/ 带文本说明的链接 文本链接 文本链接  ========================================= 以上是最简单的标签，用来写文章确实很方便！
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/my-new-blog/">我的新博客开张</a>
+  </h1>
+  <span class="post-date">Sat, Jun 27, 2015</span>
+  终于还是忍不住，重新开了这个博客，说起来，已经有快2年时间没有写过博客了，以前买发票域名和vps，信心满满的要坚持每日一博，可惜最初的衷心还是被我的懒惰击碎了，业精于勤而荒于嬉，以此为戒，谨记。
+中间这段时间虽然没有写博客，但发生了很多有意义的事，值的记下来，比如结婚了，有小杜杜了等，真是很遗憾的事。
+工作上也发生了很大的变化，由以前的桌面程序开发转到了现在的u3d游戏开发，跨度不小，对我来说还是有很大的挑战，毕竟游戏涉及到的知识面太广了，我也只有路漫漫其修远兮，吾将上下而求所。
+以后这里就是我记录琐事的地方了。
+  
+</div><div class="post">
+  <h1 class="post-title">
+    <a href="http://blog.joyble.com/post/hello-world/">Hello World</a>
+  </h1>
+  <span class="post-date">Sat, Jun 20, 2015</span>
+  Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick Start Create a new post $ hexo new &quot;My New Post&quot;  More info: Writing
+Run server $ hexo server  More info: Server
+Generate static files $ hexo generate  More info: Generating
+  
+  <div class="read-more-link">
+    <a href="/post/hello-world/">Read More…</a>
+  </div>
+  
+</div>
+</div>
+    </div>
+
+    
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>爬虫 on DUDOR&#39;s BLOG</title>
+    <link>http://blog.joyble.com/tags/%E7%88%AC%E8%99%AB/</link>
+    <description>Recent content in 爬虫 on DUDOR&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ZH</language>
+    <lastBuildDate>Fri, 22 Jul 2016 16:55:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.joyble.com/tags/%E7%88%AC%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>centos中安装python3和scrapy爬虫</title>
+      <link>http://blog.joyble.com/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
+      
+      <guid>http://blog.joyble.com/post/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
+      <description>折腾了一天，总算是安装好了。必须得记录下，不然下次说不准还得再折腾一天。。。
+虚拟机环境是centos6.5，系统自带python2.6。
+我先要安装个python3.5，然后再安装scrapy。
+先更新下系统 yum update -y  安装依赖包 yum groupinstall &#39;Development Tools&#39; yum install gcc gcc-devel -y yum install libxml2 libxml2-devel -y yum install libxslt libxslt-devel -y yum install openssl openssl-devel -y yum install libffi libffi-devel -y yum install sqlite sqlite-devel -y  安装python3.5 下载地址：https://www.python.org/ftp/python/3.5.2/Python-3.5.2.tgz
+tar zxvf Python-3.5.2.tgz cd Python-3.5.2 ./configure --prefix=/usr/local/python3.5.2 make &amp;amp;&amp;amp; make install  重新设置python命令链接 cd /usr/bin mv python python2_old ln -s /usr/local/python3.5.2/bin/python3 python ln -s /usr/local/python3.</description>
+    </item>
+    
+  </channel>
+</rss>
