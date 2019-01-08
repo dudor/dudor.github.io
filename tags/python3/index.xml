@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python3 on DUDOR&#39;s BLOG</title>
-    <link>http://blog.joyble.com/tags/python3/</link>
+    <link>https://dudor.github.io/tags/python3/</link>
     <description>Recent content in Python3 on DUDOR&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 22 Jul 2016 16:55:31 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.joyble.com/tags/python3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dudor.github.io/tags/python3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>centos中安装python3和scrapy爬虫</title>
-      <link>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
+      <link>https://dudor.github.io/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
+      <guid>https://dudor.github.io/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
       <description>折腾了一天，总算是安装好了。必须得记录下，不然下次说不准还得再折腾一天。。。
 虚拟机环境是centos6.5，系统自带python2.6。
 我先要安装个python3.5，然后再安装scrapy。

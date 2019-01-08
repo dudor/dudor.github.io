@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centos on DUDOR&#39;s BLOG</title>
-    <link>http://blog.joyble.com/tags/centos/</link>
+    <link>https://dudor.github.io/tags/centos/</link>
     <description>Recent content in Centos on DUDOR&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 22 Jul 2016 16:55:31 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.joyble.com/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dudor.github.io/tags/centos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>centos中安装python3和scrapy爬虫</title>
-      <link>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
+      <link>https://dudor.github.io/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
+      <guid>https://dudor.github.io/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</guid>
       <description>折腾了一天，总算是安装好了。必须得记录下，不然下次说不准还得再折腾一天。。。
 虚拟机环境是centos6.5，系统自带python2.6。
 我先要安装个python3.5，然后再安装scrapy。
@@ -26,10 +26,10 @@ tar zxvf Python-3.5.2.tgz cd Python-3.5.2 ./configure --prefix=/usr/local/python
     
     <item>
       <title>centos一键安装开发工具包</title>
-      <link>http://blog.joyble.com/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</link>
+      <link>https://dudor.github.io/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</link>
       <pubDate>Fri, 22 Jul 2016 10:56:22 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</guid>
+      <guid>https://dudor.github.io/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</guid>
       <description>今天在centos上升级python3.5，提示缺少编译工具gcc等
 如果一个个的手动下载安装太慢了，可以用系统自带的命令一键安装
 yum groupinstall &#39;Development Tools&#39;  这个命令会安装几十个工具，如git,gcc,perl,zip，svn，rsync等等，太方便了。</description>

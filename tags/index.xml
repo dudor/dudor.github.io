@@ -2,183 +2,183 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DUDOR&#39;s BLOG</title>
-    <link>http://blog.joyble.com/tags/</link>
+    <link>https://dudor.github.io/tags/</link>
     <description>Recent content in Tags on DUDOR&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 22 Jul 2016 16:55:31 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.joyble.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dudor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Centos</title>
-      <link>http://blog.joyble.com/tags/centos/</link>
+      <link>https://dudor.github.io/tags/centos/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/centos/</guid>
+      <guid>https://dudor.github.io/tags/centos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>http://blog.joyble.com/tags/git/</link>
+      <link>https://dudor.github.io/tags/git/</link>
       <pubDate>Tue, 07 Jul 2015 00:39:42 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/git/</guid>
+      <guid>https://dudor.github.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iptables</title>
-      <link>http://blog.joyble.com/tags/iptables/</link>
+      <link>https://dudor.github.io/tags/iptables/</link>
       <pubDate>Tue, 05 Jul 2016 14:34:41 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/iptables/</guid>
+      <guid>https://dudor.github.io/tags/iptables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lua</title>
-      <link>http://blog.joyble.com/tags/lua/</link>
+      <link>https://dudor.github.io/tags/lua/</link>
       <pubDate>Sun, 12 Jul 2015 18:14:47 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/lua/</guid>
+      <guid>https://dudor.github.io/tags/lua/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://blog.joyble.com/tags/markdown/</link>
+      <link>https://dudor.github.io/tags/markdown/</link>
       <pubDate>Wed, 01 Jul 2015 00:47:56 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/markdown/</guid>
+      <guid>https://dudor.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networking</title>
-      <link>http://blog.joyble.com/tags/networking/</link>
+      <link>https://dudor.github.io/tags/networking/</link>
       <pubDate>Fri, 22 Jan 2016 09:08:51 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/networking/</guid>
+      <guid>https://dudor.github.io/tags/networking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://blog.joyble.com/tags/python/</link>
+      <link>https://dudor.github.io/tags/python/</link>
       <pubDate>Fri, 22 Jul 2016 10:56:22 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/python/</guid>
+      <guid>https://dudor.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python3</title>
-      <link>http://blog.joyble.com/tags/python3/</link>
+      <link>https://dudor.github.io/tags/python3/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/python3/</guid>
+      <guid>https://dudor.github.io/tags/python3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scrapy</title>
-      <link>http://blog.joyble.com/tags/scrapy/</link>
+      <link>https://dudor.github.io/tags/scrapy/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/scrapy/</guid>
+      <guid>https://dudor.github.io/tags/scrapy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ss</title>
-      <link>http://blog.joyble.com/tags/ss/</link>
+      <link>https://dudor.github.io/tags/ss/</link>
       <pubDate>Tue, 05 Jul 2016 14:34:41 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/ss/</guid>
+      <guid>https://dudor.github.io/tags/ss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unet</title>
-      <link>http://blog.joyble.com/tags/unet/</link>
+      <link>https://dudor.github.io/tags/unet/</link>
       <pubDate>Fri, 22 Jan 2016 09:08:51 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/unet/</guid>
+      <guid>https://dudor.github.io/tags/unet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unity3d</title>
-      <link>http://blog.joyble.com/tags/unity3d/</link>
+      <link>https://dudor.github.io/tags/unity3d/</link>
       <pubDate>Fri, 22 Jan 2016 09:08:51 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/unity3d/</guid>
+      <guid>https://dudor.github.io/tags/unity3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Win10</title>
-      <link>http://blog.joyble.com/tags/win10/</link>
+      <link>https://dudor.github.io/tags/win10/</link>
       <pubDate>Tue, 19 Jul 2016 14:40:08 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/win10/</guid>
+      <guid>https://dudor.github.io/tags/win10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Win7</title>
-      <link>http://blog.joyble.com/tags/win7/</link>
+      <link>https://dudor.github.io/tags/win7/</link>
       <pubDate>Tue, 19 Jul 2016 14:40:08 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/win7/</guid>
+      <guid>https://dudor.github.io/tags/win7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>多渠道</title>
-      <link>http://blog.joyble.com/tags/%E5%A4%9A%E6%B8%A0%E9%81%93/</link>
+      <link>https://dudor.github.io/tags/%E5%A4%9A%E6%B8%A0%E9%81%93/</link>
       <pubDate>Fri, 09 Oct 2015 16:39:34 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/%E5%A4%9A%E6%B8%A0%E9%81%93/</guid>
+      <guid>https://dudor.github.io/tags/%E5%A4%9A%E6%B8%A0%E9%81%93/</guid>
       <description></description>
     </item>
     
     <item>
       <title>打包</title>
-      <link>http://blog.joyble.com/tags/%E6%89%93%E5%8C%85/</link>
+      <link>https://dudor.github.io/tags/%E6%89%93%E5%8C%85/</link>
       <pubDate>Fri, 09 Oct 2015 16:39:34 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/%E6%89%93%E5%8C%85/</guid>
+      <guid>https://dudor.github.io/tags/%E6%89%93%E5%8C%85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>爬虫</title>
-      <link>http://blog.joyble.com/tags/%E7%88%AC%E8%99%AB/</link>
+      <link>https://dudor.github.io/tags/%E7%88%AC%E8%99%AB/</link>
       <pubDate>Fri, 22 Jul 2016 16:55:31 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/%E7%88%AC%E8%99%AB/</guid>
+      <guid>https://dudor.github.io/tags/%E7%88%AC%E8%99%AB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>版本控制</title>
-      <link>http://blog.joyble.com/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</link>
+      <link>https://dudor.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</link>
       <pubDate>Tue, 07 Jul 2015 00:39:42 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</guid>
+      <guid>https://dudor.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>生日快乐</title>
-      <link>http://blog.joyble.com/tags/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</link>
+      <link>https://dudor.github.io/tags/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</link>
       <pubDate>Sun, 05 Feb 2017 20:27:36 +0000</pubDate>
       
-      <guid>http://blog.joyble.com/tags/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</guid>
+      <guid>https://dudor.github.io/tags/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</guid>
       <description></description>
     </item>
     

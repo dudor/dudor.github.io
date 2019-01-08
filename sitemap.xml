@@ -1,214 +1,215 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.joyble.com/2017/12/01/vscode-with-git-bash/</loc>
+    <loc>https://dudor.github.io/2017/12/01/vscode-with-git-bash/</loc>
     <lastmod>2017-12-01T20:54:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2017/02/05/%E7%A5%9D%E5%B0%8F%E6%9D%9C%E6%9D%9C%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%B0%B8%E8%BF%9C%E5%B9%B8%E7%A6%8F/</loc>
+    <loc>https://dudor.github.io/2017/02/05/%E7%A5%9D%E5%B0%8F%E6%9D%9C%E6%9D%9C%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%B0%B8%E8%BF%9C%E5%B9%B8%E7%A6%8F/</loc>
     <lastmod>2017-02-05T20:27:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</loc>
+    <loc>https://dudor.github.io/2016/07/22/centos%E4%B8%AD%E5%AE%89%E8%A3%85python3%E5%92%8Cscrapy%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2016-07-22T16:55:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</loc>
+    <loc>https://dudor.github.io/2016/07/22/centos%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85/</loc>
     <lastmod>2016-07-22T10:56:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</loc>
+    <loc>https://dudor.github.io/2016/07/19/win7%E5%92%8Cwin10%E4%B8%8A%E5%AE%89%E8%A3%85scrapy%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2016-07-19T14:40:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2016/07/05/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/</loc>
+    <loc>https://dudor.github.io/2016/07/05/ss%E7%9A%84iptables%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99/</loc>
     <lastmod>2016-07-05T14:34:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E5%85%B8/</loc>
+    <loc>https://dudor.github.io/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%AD%97%E5%85%B8/</loc>
     <lastmod>2016-06-27T11:52:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%97%E8%A1%A8%E5%85%83%E7%BB%84/</loc>
+    <loc>https://dudor.github.io/2016/06/27/python%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%97%E8%A1%A8%E5%85%83%E7%BB%84/</loc>
     <lastmod>2016-06-27T10:14:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2016/01/22/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://dudor.github.io/2016/01/22/unity3d%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6unet%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2016-01-22T09:08:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2015/10/09/unity3d%E4%B8%AD%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%B9%E9%87%8F%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://dudor.github.io/2015/10/09/unity3d%E4%B8%AD%E5%A4%9A%E6%B8%A0%E9%81%93%E6%89%B9%E9%87%8F%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2015-10-09T16:39:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2015/07/12/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://dudor.github.io/2015/07/12/lua%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2015-07-12T18:14:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2015/07/07/unity3d%E4%B8%AD%E4%BD%BF%E7%94%A8git%E5%81%9A%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</loc>
+    <loc>https://dudor.github.io/2015/07/07/unity3d%E4%B8%AD%E4%BD%BF%E7%94%A8git%E5%81%9A%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</loc>
     <lastmod>2015-07-07T00:39:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2015/07/01/markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://dudor.github.io/2015/07/01/markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2015-07-01T00:47:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2015/06/27/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0/</loc>
+    <loc>https://dudor.github.io/2015/06/27/%E6%88%91%E7%9A%84%E6%96%B0%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0/</loc>
     <lastmod>2015-06-27T13:56:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/2015/06/20/hello-world/</loc>
+    <loc>https://dudor.github.io/2015/06/20/hello-world/</loc>
     <lastmod>2015-06-20T00:47:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/categories/</loc>
+    <loc>https://dudor.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/centos/</loc>
+    <loc>https://dudor.github.io/tags/centos/</loc>
     <lastmod>2016-07-22T16:55:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/</loc>
+    <loc>https://dudor.github.io/</loc>
     <lastmod>2017-12-01T20:54:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/git/</loc>
+    <loc>https://dudor.github.io/tags/git/</loc>
     <lastmod>2015-07-07T00:39:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/iptables/</loc>
+    <loc>https://dudor.github.io/tags/iptables/</loc>
     <lastmod>2016-07-05T14:34:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/lua/</loc>
+    <loc>https://dudor.github.io/tags/lua/</loc>
     <lastmod>2015-07-12T18:14:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/markdown/</loc>
+    <loc>https://dudor.github.io/tags/markdown/</loc>
     <lastmod>2015-07-01T00:47:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/networking/</loc>
+    <loc>https://dudor.github.io/tags/networking/</loc>
     <lastmod>2016-01-22T09:08:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/post/</loc>
+    <loc>https://dudor.github.io/post/</loc>
     <lastmod>2017-12-01T20:54:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/python/</loc>
+    <loc>https://dudor.github.io/tags/python/</loc>
     <lastmod>2016-07-22T10:56:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/python3/</loc>
+    <loc>https://dudor.github.io/tags/python3/</loc>
     <lastmod>2016-07-22T16:55:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/scrapy/</loc>
+    <loc>https://dudor.github.io/tags/scrapy/</loc>
     <lastmod>2016-07-22T16:55:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/ss/</loc>
+    <loc>https://dudor.github.io/tags/ss/</loc>
     <lastmod>2016-07-05T14:34:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/</loc>
+    <loc>https://dudor.github.io/tags/</loc>
     <lastmod>2016-07-22T16:55:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/unet/</loc>
+    <loc>https://dudor.github.io/tags/unet/</loc>
     <lastmod>2016-01-22T09:08:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/unity3d/</loc>
+    <loc>https://dudor.github.io/tags/unity3d/</loc>
     <lastmod>2016-01-22T09:08:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/win10/</loc>
+    <loc>https://dudor.github.io/tags/win10/</loc>
     <lastmod>2016-07-19T14:40:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/win7/</loc>
+    <loc>https://dudor.github.io/tags/win7/</loc>
     <lastmod>2016-07-19T14:40:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/%E5%A4%9A%E6%B8%A0%E9%81%93/</loc>
+    <loc>https://dudor.github.io/tags/%E5%A4%9A%E6%B8%A0%E9%81%93/</loc>
     <lastmod>2015-10-09T16:39:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/%E6%89%93%E5%8C%85/</loc>
+    <loc>https://dudor.github.io/tags/%E6%89%93%E5%8C%85/</loc>
     <lastmod>2015-10-09T16:39:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/%E7%88%AC%E8%99%AB/</loc>
+    <loc>https://dudor.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2016-07-22T16:55:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
+    <loc>https://dudor.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2015-07-07T00:39:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.joyble.com/tags/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</loc>
+    <loc>https://dudor.github.io/tags/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/</loc>
     <lastmod>2017-02-05T20:27:36+00:00</lastmod>
     <priority>0</priority>
   </url>
